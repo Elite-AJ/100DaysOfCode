@@ -14,7 +14,6 @@ else:
 
 
 
-
 #BMI 2.0
 ## It interpretes the Body Mass Index based on user's weight and height
 
