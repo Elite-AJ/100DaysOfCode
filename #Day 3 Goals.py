@@ -130,7 +130,7 @@ love_x = l + o + v + e1
 
 love = str(love_x)
 
-trueLove = true + love
+trueLove = true_x + love
 true_love = int(trueLove)
 
 #Conditional Statements
