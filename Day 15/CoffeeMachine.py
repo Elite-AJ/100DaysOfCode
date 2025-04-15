@@ -9,10 +9,10 @@ from main import MENU
 #Report function
 def print_report():
     """Print the current status of the resources and money."""
-    print(f"Water: {resources["water"]}")
-    print(f"Milk: {resources["milk"]}")
-    print(f"Coffee: {resources["coffee"]}")
-    print(f"Money: {resources["money"]}")
+    print(f"Water: {resources["water"]}ml")
+    print(f"Milk: {resources["milk"]}ml")
+    print(f"Coffee: {resources["coffee"]}g")
+    print(f"Money: {resources["profit"]}")
 
 #Choice validity function
 def is_valid_choice(choice):
